@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Contact widget.\n\ndate = \"2019-09-20T00:00:00\"\ndraft = false\n\ntitle = \"Contact\"\nsubtitle = \"\"\nwidget = \"contact\"\n\n# Order that this section will appear in.\nweight = 70\n\n# Automatically link email and phone?\nautolink = true\n\n+++\n\nBenjamin Smith\n\nsmithben@usc.edu\n\n+1 (213) 740-7860\n\nBen Smith\nDepartment of Psychology\nUniversity of Southern California\nSGM 501\n3620 South McClintock Ave.\nLos Angeles, CA 90089-1061\n\n",
+    "created" : 1505382368972.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1377871895",
+    "id" : "C0F494B5",
+    "lastKnownWriteTime" : 1505382447,
+    "last_content_update" : 1505382447159,
+    "path" : "~/GDrive/website/www/content/home/contact.md",
+    "project_path" : "content/home/contact.md",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

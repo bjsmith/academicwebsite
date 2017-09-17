@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "\n+++\nabstract = \"How can the same underlying psychological/neurobiological system result in both stable between-individual differences and high levels of within-individual variability in personality *states* over time and situations? We argue that both types of variability result from a psychological system based on structured, chronic motivations, where behavior at a specific point in time is a joint function of the current availability of motive affordances in the situation, current motivationally relevant bodily or interoceptive states, and the result of the competition among alternative active motives. Here we present a biologically-based theoretical framework, embodied in two different computational models, that shows how individuals with stable personality characteristics, can nevertheless exhibit considerable within-person variability in personality states across time and situations.\"\nabstract_short = \"How can the same underlying psychological/neurobiological system result in both stable between-individual differences and high levels of within-individual variability in personality states over time and situations? We argue that both types of variability result from a psychological system based on structured, chronic motivations, where behavior at a specific point in time is a joint function of the current availability of motive affordances in the situation, current motivationally relevant bodily or interoceptive states, and the result of the competition among alternative active motives. Here we present a biologically-based theoretical framework, embodied in two different computational models, that shows how individuals with stable personality characteristics, can nevertheless exhibit considerable within-person variability in *personality states* across time and situations.\"\nauthors = [\"Read, S. J.\", \"Smith, B. J.\", \"Droutman, V.\", \"Miller, L. C.\"]\n\ndate = \"2016-01-01\"\nimage_preview = \"\"\nmath = true\npublication_types = [\"2\"]\npublication = \"*Journal of Research and Personality*\"\npublication_short = \"*JRP*\"\nselected = true\ntitle = \"Virtual Personalities: Using computational modeling to understand within-person variability\"\nurl_code = \"#\"\nurl_dataset = \"#\"\nurl_pdf = \"http://sci-hub.io/10.1016/j.jrp.2016.10.005\"\nurl_project = \"project/deep-learning/\"\n#url_slides = \"#\"\n#url_video = \"#\"\n\n[[url_custom]]\nname = \"Custom Link\"\nurl = \"http://www.example.org\"\n\n# Optional featured image (relative to `static/img/` folder).\n[header]\nimage = \"headers/bubbles-wide.jpg\"\ncaption = \"My caption :smile:\"\n\n+++\n\nMore detail can easily be written here using *Markdown* and $\\rm \\LaTeX$ math code.\n",
+    "created" : 1505385617962.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2859310383",
+    "id" : "5208C1DA",
+    "lastKnownWriteTime" : 1505387011,
+    "last_content_update" : 1505387011379,
+    "path" : "~/GDrive/website/www/content/publication/virtualpersonality.md",
+    "project_path" : "content/publication/virtualpersonality.md",
+    "properties" : {
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

@@ -1,0 +1,3 @@
+[submodule "bjsmith.github.io"]
+	path = bjsmith.github.io
+	url = https://github.com/bjsmith/bjsmith.github.io.git

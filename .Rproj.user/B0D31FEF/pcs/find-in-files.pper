@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "~/GDrive/website/www",
+        "query" : "config$output_dir != \".\")",
+        "regex" : false
+    }
+}

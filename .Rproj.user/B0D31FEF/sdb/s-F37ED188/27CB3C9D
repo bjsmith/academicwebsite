@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# About/Biography widget.\n\ndate = \"2017-09-20T00:00:00\"\ndraft = false\n\ntitle = \"About\"\nwidget = \"about\"\n\n# Order that this section will appear in.\nweight = 1\n\n# List your academic interests.\n[interests]\n  interests = [\n    \"Risky decision-making\",\n    \"Computational modeling\",\n    \"Bayesian methods\",\n    \"Moral and ideological decision-making\"\n  ]\n\n# List your qualifications (such as academic degrees).\n[[education.courses]]\n  course = \"PhD, in progress\"\n  institution = \"University of Southern California\"\n  year = 2018\n\n[[education.courses]]\n  course = \"MA, Psychology\"\n  institution = \"University of Southern California\"\n  year = 2015\n  \n[[education.courses]]\n  course = \"MSc, Psychology\"\n  institution = \"University of Auckland\"\n  year = 2012\n\n[[education.courses]]\n  course = \"GradDipArts\"\n  institution = \"University of Auckland\"\n  year = 2010\n  \n[[education.courses]]\n  course = \"BSc, Computer Science and Psychology\"\n  institution = \"University of Auckland\"\n  year = 2009\n \n+++\n\n# Biography\n\nBen Smith is a PhD candidate in the Social Affective Neuroscience of Decision-making laboratory at the University of Southern California, led by Prof. Steve Read. Decision-making is the common thread in Ben's work, and spans areas including the social neuroscience of risky decision-making, computational modeling of the reward and punishment system during decision-making, the abstract-concrete tangibility axis of the prefrontal cortex, and moral and ideological decision-making.",
+    "created" : 1505381900560.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1651009405",
+    "id" : "27CB3C9D",
+    "lastKnownWriteTime" : 1505386677,
+    "last_content_update" : 1505386677392,
+    "path" : "~/GDrive/website/www/content/home/about.md",
+    "project_path" : "content/home/about.md",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
