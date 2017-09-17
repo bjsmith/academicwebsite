@@ -1,5 +1,5 @@
 #baseurl = "http://bensmith.fmri.cn/"  # End your URL with a `/` trailing slash.
-baseurl = "http://bjsmith.github.io/"  # End your URL with a `/` trailing slash.
+baseurl = "https://bjsmith.github.io/"  # End your URL with a `/` trailing slash.
 title = "Ben Smith"
 copyright = "&copy; 2017 Ben Smith"
 theme = "hugo-academic"
@@ -41,6 +41,9 @@ defaultContentLanguageInSubdir = false
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
   math = false
+
+  #as recommended
+  ignoreFiles=["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   # Highlight.js options
   #   highlight
