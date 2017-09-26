@@ -24,8 +24,8 @@ url = "http://www.example.org"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "headers/risky-sex.png"
+caption = "From the paper: activity during risky sexual decision-making, across all subjects."
 
 +++
 

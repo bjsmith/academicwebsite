@@ -21,13 +21,13 @@ url_project = "project/deep-learning/"
 
 [[url_custom]]
 name = "Custom Link"
-url = "http://www.example.org"
+url = "http://sci-hub.io/10.1016/j.jrp.2016.10.005"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "headers/personality-computational-model.png"
+caption = "Screenshot from the personality model project, available on github and implemented in python."
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+

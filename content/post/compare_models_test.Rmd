@@ -1,0 +1,33 @@
+---
+title: "TEST POST"
+author: "Ben Smith"
+date: "2017-09-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_knit$set(root.dir = '/Users/benjaminsmith/GDrive/joint-modeling/reversal-learning/behavioral-analysis/reversallearning/')
+```
+
+
+```{r mygraph, echo=TRUE, message=FALSE, warning=FALSE}
+getwd()
+#source("nate_files/fitGroupsV3Onegroup.R")
+#source("/Users/benjaminsmith/GDrive/joint-modeling/reversal-learning/behavioral-analysis/reversallearning/data_summarize.R")
+
+library(ggplot2)
+set.seed(42)
+dat<-data.frame("x"=c(rnorm(1000,0,1)))
+
+ggplot(dat, aes(x=x)) +
+   geom_histogram(binwidth=0.1)
+```
+
+
+I am working on using a Bayesian model to estimate parameters for our reward learning data. I'm extending [Nate Haines' Double Update Model for Reversal Learning](https://rpubs.com/CCSL/hBayesDM) [@ahn2017revealing]. Nate modified the version available in his package hBayesDM to work with our dataset, which is a deterministic Reversal Learning task. I have since incrementally extended it to handle two different tasks (reward and punishment learning) and repeated runs.
+
+$\beta + 1$
+
+# References
+
