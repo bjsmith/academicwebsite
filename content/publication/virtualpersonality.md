@@ -12,16 +12,8 @@ publication = "*Journal of Research and Personality*"
 publication_short = "*JRP*"
 selected = true
 title = "Virtual Personalities: Using computational modeling to understand within-person variability"
-url_code = "#"
-url_dataset = "#"
+url_code = "https://github.com/bjsmith/motivation-simulation"
 url_pdf = "http://sci-hub.io/10.1016/j.jrp.2016.10.005"
-url_project = "project/deep-learning/"
-#url_slides = "#"
-#url_video = "#"
-
-[[url_custom]]
-name = "Custom Link"
-url = "http://sci-hub.io/10.1016/j.jrp.2016.10.005"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

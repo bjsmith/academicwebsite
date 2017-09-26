@@ -14,12 +14,10 @@ weight = 60
 
 +++
 
-I have been a teaching instructor for the following courses at University Southern California:
-
-- PSYC201: The Science of Happiness
-- PSYC167: Drugs, Behavior, and Society
-
-At the University of Auckland I have also been a Graduate Teaching Assistant for:
-
-- PSYC108: Individual, Social, and Applied Psychology
-- PHIL101: Introduciton to Logic
+ * Teaching instructor for the following courses at University Southern California, 2016:
+   - PSYC201: The Science of Happiness (1 semester)
+   - PSYC167: Drugs, Behavior, and Society  (1 semester)
+ * Graduate Teaching Assistant, Auckland University:
+  - PSYC108: Individual, Social, and Applied Psychology (2 semesters 2011)
+  - PHIL101: Introduction to Logic (1 semester 2010)
+ * Guest Lecture, August 2017, EDENZ Colleges New Zealand, Diploma in Business (Level 7), "Values: Theory and Practice"

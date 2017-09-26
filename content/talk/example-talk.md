@@ -1,11 +1,11 @@
 +++
-date = "2017-01-01T00:00:00"
+date = "2017-08-20T00:00:00"
 title = "Cultural context and motivational style distinguish Honour and Face cultures"
 abstract = ""
 abstract_short = ""
 event = "Asian Association for Social Psychology"
 event_url = "https://auckland.asiansocialpsych.org/"
-location = "Auckland, New Zealand"
+location = "Massey University, Auckland, New Zealand"
 
 selected = false
 math = true
@@ -16,8 +16,8 @@ url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "headers/honor-culture.jpg"
+caption = "Study 1 and subsequent analyses found links between BISBAS, honor culture, and face culture"
 
 +++
 

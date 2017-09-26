@@ -9,7 +9,7 @@ title = "A meta-analytical review of brain activity associated with intertempora
 summary = "With evidence from a meta-analysis, I propose a rostral-caudal tangibility axis that helps to create general processes of psychological distance"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "headers/neural-meta-main-raw-capture-edited.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["prefrontal cortex", "neural structure"]`

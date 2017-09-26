@@ -11,16 +11,7 @@ publication = "*Under review*"
 publication_short = "*Under review*"
 selected = true
 title = "Virtually 'in the heat of the moment': Insula activation in safe sex negotiation among risky men."
-url_code = "#"
-url_dataset = "#"
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_project = "project/deep-learning/"
-#url_slides = "#"
-#url_video = "#"
 
-[[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -29,4 +20,4 @@ caption = "From the paper: activity during risky sexual decision-making, across 
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+<!--More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.-->
