@@ -6,14 +6,14 @@ date = "2016-04-27"
 title = "Distinguishing honor, face, and dignity culture"
 
 # Project summary to display on homepage.
-summary = "with colleagues Peter Wang and Crystal Wang. We are examining the differences between Honor, Face, and Dignity culture. Leung & Cohen ([http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=2282&context=soss_research](2011)) characterized these cultures in detail. We believe that systematic individual differences in personality can distinguish honor and face cultures, which, though distinct, have historically been difficult to characterize separately."
+summary = "with colleagues Peter Wang and Crystal Wang. We are examining the differences between Honor, Face, and Dignity culture. Leung & Cohen([2011](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=2282&context=soss_research)) characterized these cultures in detail. We believe that systematic individual differences in personality can distinguish honor and face cultures, which, though distinct, have historically been difficult to characterize separately."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "headers/honor-culture.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["culture", "honor culture"]`
-tags = ["culture", "honor culture", "cross-cultural research"]
+tags = ["culture", "honor culture", "personality","morality", "cross-cultural research"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://example.org"

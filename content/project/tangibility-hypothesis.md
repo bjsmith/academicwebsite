@@ -13,7 +13,7 @@ image_preview = "headers/neural-meta-main-raw-capture-edited.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["prefrontal cortex", "neural structure"]`
-tags = ["prefrontal cortex", "neural structure"]
+tags = ["prefrontal-cortex", "neural-structure"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "headers/neural-meta-main-raw-capture-edited.png"
+caption = "SmallerSooner and LargerLater PFC activity found in the meta-analysis"
 
 +++
 

@@ -26,9 +26,29 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "culture"
+  tag = ".culture"
 
+[[filter]]
+  name = "reversal learning"
+  tag = ".reversal-learning"
+  
+[[filter]]
+  name = "bayesian hierarchical modeling"
+  tag = ".bayesian-hierarchical-modeling"
+  
+[[filter]]
+  name = "prefrontal cortex"
+  tag = ".prefrontal-cortex"
+  
+[[filter]]
+  name = "personality"
+  tag = ".personality"
+
+[[filter]]
+  name = "morality"
+  tag = ".morality"
+  
 [[filter]]
   name = "Other"
   tag = ".demo"

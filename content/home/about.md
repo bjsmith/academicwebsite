@@ -13,6 +13,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+    "Affective neuroscience of decision-making",
     "Risky decision-making",
     "Computational modeling",
     "Bayesian methods",
