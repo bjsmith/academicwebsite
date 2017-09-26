@@ -1,5 +1,6 @@
 +++
-abstract = "The brains of men who engage in risky sexual behavior may employ a different distribution of cognitive resources during tasks of executive functioning than men who practice safe sex, and that this may relate to differences in the prefrontal cortical/fronto-insular system responsible for impulse control"
+
+abstract = "The brains of men who engage in risky sexual behavior may employ a different distribution of cognitive resources during tasks of executive functioning than men who practice safe sex. This may relate to differences in the prefrontal cortical/fronto-insular system responsible for impulse control."
 abstract_short = ""
 authors = ["Barkley-Levenson, E.", "Xue, F.", "Droutman, V.", "Miller, L. C.", "Smith, B. J.", "Jeong, D.", "Lu, J.-L.", "Bechara, A.",  "Read, S. J."]
 
@@ -11,7 +12,6 @@ publication = "*Annals of behavioral medicine*"
 publication_short = "*Annals of behavioral medicine*"
 selected = true
 title = "Prefrontal cortical activity during the Stroop task: New insights into the why and the who of real-world risky sexual behavior"
-
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
