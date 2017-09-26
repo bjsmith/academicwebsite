@@ -1,10 +1,9 @@
 +++
-
-abstract = "The brains of men who engage in risky sexual behavior may employ a different distribution of cognitive resources during tasks of executive functioning than men who practice safe sex. This may relate to differences in the prefrontal cortical/fronto-insular system responsible for impulse control."
+abstract = "The brains of men who engage in risky sexual behavior may employ a different distribution of cognitive resources during tasks of executive functioning than men who practice safe sex. This could relate to differences in the prefrontal cortical/fronto-insular system responsible for impulse control."
 abstract_short = ""
 authors = ["Barkley-Levenson, E.", "Xue, F.", "Droutman, V.", "Miller, L. C.", "Smith, B. J.", "Jeong, D.", "Lu, J.-L.", "Bechara, A.",  "Read, S. J."]
 
-date = "2013-07-01"
+date = "2017-07-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
@@ -19,6 +18,7 @@ image = "headers/bubbles-wide.jpg"
 caption = "Available soon in the *Annals of Behavioral Medicine*"
 
 +++
+
 *Background* Research suggests that deficits in both executive functioning and trait impulsivity
 may play a role in risky sexual behavior. At the neural level, differences in regulation of the
 prefrontal cortex have been linked to impulsivity, measured neurocognitively and through self-
