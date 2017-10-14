@@ -9,7 +9,7 @@ math = true
 publication_types = ["2"]
 publication = "*Annals of behavioral medicine*"
 publication_short = "*Annals of behavioral medicine*"
-selected = true
+selected = false
 title = "Prefrontal cortical activity during the Stroop task: New insights into the why and the who of real-world risky sexual behavior"
 
 # Optional featured image (relative to `static/img/` folder).
