@@ -8,7 +8,7 @@ output:
 ---
 
 ```{r setup1, include=FALSE}
-knitr::opts_knit$set(root.dir = '/Users/benjaminsmith/GDrive/politics/immigrationstats/')
+knitr::opts_knit$set(root.dir = '/Users/benjaminsmith/Google Drive/politics/immigrationstats/')
 ```
 
 ```{r setup, include=FALSE}

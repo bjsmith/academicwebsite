@@ -7,10 +7,11 @@ date = "2017-07-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "*Under revision for Social Cognitive Affective Neuroscience*"
+publication = "Social Cognitive Affective Neuroscience"
 publication_short = "*Under revision*"
 selected = true
 title = "Virtually 'in the heat of the moment': Insula activation in safe sex negotiation among risky men."
+url_code = "https://www.ncbi.nlm.nih.gov/pubmed/29149326"
 
 
 # Optional featured image (relative to `static/img/` folder).
