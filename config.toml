@@ -1,7 +1,7 @@
 #baseurl = "http://bensmith.fmri.cn/"  # End your URL with a `/` trailing slash.
 baseurl = "https://bjsmith.github.io/"  # End your URL with a `/` trailing slash.
 title = "Ben Smith"
-copyright = "&copy; 2017 Ben Smith"
+copyright = "&copy; 2022 Ben Smith"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -21,14 +21,14 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Ben Smith"
-  role = "PhD Candidate"
-  organization = "University of Southern California"
+  role = "Postdoctoral researcher"
+  organization = "University of Oregon"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "ben.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "benjsmith@gmail.com"
   address = "Department of Psychology, University of Southern California, SGM 501, 3620 South McClintock Ave., Los Angeles, CA 90089-1061"
-  phone = "(323) 385 9349"
+  phone = "(541) 650 7768"
   skype = "ben.smith.nz"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -205,3 +205,8 @@ defaultContentLanguageInSubdir = false
 
 #[languages.zh]
 #  languageCode = "zh-CN"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

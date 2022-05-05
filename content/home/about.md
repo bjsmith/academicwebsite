@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2017-09-20T00:00:00"
+date = "2022-05-04T00:00:00"
 draft = false
 
 title = "About"
@@ -22,9 +22,9 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD, in progress"
+  course = "PhD"
   institution = "University of Southern California"
-  year = 2018
+  year = 2019
 
 [[education.courses]]
   course = "MA, Psychology"
@@ -50,4 +50,6 @@ weight = 1
 
 # Biography
 
-Ben Smith is a PhD candidate in the Social Affective Neuroscience of Decision-making laboratory at the University of Southern California, led by Prof. Steve Read. Decision-making is the common thread in Ben's work, and spans areas including the social neuroscience of risky decision-making, computational modeling of the reward and punishment system during decision-making, the abstract-concrete tangibility axis of the prefrontal cortex, and moral and ideological decision-making.
+Ben Smith is Postdoctoral researcher in neuroscience at Prof. Elliot Berkman's Social Affective Neuroscience Lab at the University of Oregon.
+
+He completed a PhD in the Social Affective Neuroscience of Decision-making laboratory at the University of Southern California, led by Prof. Steve Read. Decision-making is the common thread in Ben's work, and spans areas including the social neuroscience of risky decision-making, computational modeling of the reward and punishment system during decision-making, the abstract-concrete tangibility axis of the prefrontal cortex, and moral and ideological decision-making.

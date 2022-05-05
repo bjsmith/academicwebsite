@@ -38,4 +38,4 @@ vignettes/*.pdf
 .Rproj.user
 
 #custom
-.DS_Store
+*.DS_Store
